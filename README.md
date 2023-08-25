@@ -15,7 +15,7 @@ Return the indices
 ## Complexity
 
 - Time complexity:
-Since we are carrying out only one for loop nested for loops for the entire array the time complexity becomes $$0(n)$$
+Since we are carrying out only one for loop for the entire array or for searching in the collection, the time complexity becomes $$0(n)$$
 
 - Space complexity:
 The space complexity is $$O(2n)$$ since we are need two bytes per number (one for the index additionally) in the collection
